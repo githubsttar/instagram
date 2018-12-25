@@ -22,6 +22,9 @@ gem 'pg'
 # Bootstrap
 gem 'bootstrap', '~> 4.1.1'
 
+# Jquery
+gem 'jquery-rails'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks

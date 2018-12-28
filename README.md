@@ -19,7 +19,7 @@ rake db:schema:load
 bundle install
 
 ```
-
+## Starting the server
 ```
 bin/rails server # Start the server at localhost:3000
 

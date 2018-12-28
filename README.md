@@ -24,3 +24,4 @@ bundle install
 bin/rails server # Start the server at localhost:3000
 
 ```
+![](assets/images/request_response_cycle.jpg)
